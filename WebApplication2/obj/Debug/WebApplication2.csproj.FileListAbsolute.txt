@@ -88,3 +88,4 @@ C:\Git\PaintApp\PaintApp\WebApplication2\bin\System.Web.Http.Owin.xml
 C:\Git\PaintApp\PaintApp\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
 C:\Git\PaintApp\PaintApp\WebApplication2\obj\Debug\WebApplication2.dll
 C:\Git\PaintApp\PaintApp\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Git\master\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache

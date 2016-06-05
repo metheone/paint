@@ -3,3 +3,8 @@ C:\Git\PaintApp\PaintApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\Git\PaintApp\PaintApp\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
 C:\Git\PaintApp\PaintApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Git\PaintApp\PaintApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Git\master\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Git\master\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Git\master\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Git\master\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Git\master\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

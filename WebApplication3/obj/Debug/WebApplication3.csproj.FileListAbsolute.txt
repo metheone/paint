@@ -75,3 +75,4 @@ C:\Git\PaintApp\PaintApp\WebApplication3\bin\Paint.Data.pdb
 C:\Git\PaintApp\PaintApp\WebApplication3\bin\Paint.Model.pdb
 C:\Git\PaintApp\PaintApp\WebApplication3\bin\Paint.Service.pdb
 C:\Git\PaintApp\PaintApp\WebApplication3\bin\Autofac.xml
+C:\Git\master\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache

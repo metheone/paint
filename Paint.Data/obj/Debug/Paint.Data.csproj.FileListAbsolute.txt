@@ -5,3 +5,10 @@ C:\Git\PaintApp\PaintApp\Paint.Data\bin\Debug\Paint.Model.pdb
 C:\Git\PaintApp\PaintApp\Paint.Data\obj\Debug\Paint.Data.csprojResolveAssemblyReference.cache
 C:\Git\PaintApp\PaintApp\Paint.Data\obj\Debug\Paint.Data.dll
 C:\Git\PaintApp\PaintApp\Paint.Data\obj\Debug\Paint.Data.pdb
+C:\Git\master\Paint.Data\bin\Debug\Paint.Data.dll
+C:\Git\master\Paint.Data\bin\Debug\Paint.Data.pdb
+C:\Git\master\Paint.Data\bin\Debug\Paint.Model.dll
+C:\Git\master\Paint.Data\bin\Debug\Paint.Model.pdb
+C:\Git\master\Paint.Data\obj\Debug\Paint.Data.csprojResolveAssemblyReference.cache
+C:\Git\master\Paint.Data\obj\Debug\Paint.Data.dll
+C:\Git\master\Paint.Data\obj\Debug\Paint.Data.pdb

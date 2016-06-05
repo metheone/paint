@@ -7,3 +7,12 @@ C:\Git\PaintApp\PaintApp\Paint.Service\bin\Debug\Paint.Model.dll
 C:\Git\PaintApp\PaintApp\Paint.Service\bin\Debug\Paint.Model.pdb
 C:\Git\PaintApp\PaintApp\Paint.Service\bin\Debug\Paint.Data.dll
 C:\Git\PaintApp\PaintApp\Paint.Service\bin\Debug\Paint.Data.pdb
+C:\Git\master\Paint.Service\bin\Debug\Paint.Service.dll
+C:\Git\master\Paint.Service\bin\Debug\Paint.Service.pdb
+C:\Git\master\Paint.Service\bin\Debug\Paint.Data.dll
+C:\Git\master\Paint.Service\bin\Debug\Paint.Model.dll
+C:\Git\master\Paint.Service\bin\Debug\Paint.Data.pdb
+C:\Git\master\Paint.Service\bin\Debug\Paint.Model.pdb
+C:\Git\master\Paint.Service\obj\Debug\Paint.Service.csprojResolveAssemblyReference.cache
+C:\Git\master\Paint.Service\obj\Debug\Paint.Service.dll
+C:\Git\master\Paint.Service\obj\Debug\Paint.Service.pdb

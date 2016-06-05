@@ -1,17 +1,10 @@
 ﻿using Core.AccountManagement;
-using Microsoft.AspNet.Identity;
 using Paint.Data.Interface;
 using Paint.Data.Repository;
 using Paint.Model.common;
-using Paint.Model.Enums;
 using Paint.Model.Models;
 using Paint.Service;
 using Paint.Service.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
 
 namespace WebApplication3.Controllers
 {
