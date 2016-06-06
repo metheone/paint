@@ -20,3 +20,7 @@ C:\Git\master\PaintDesktopConsole\obj\Debug\PaintDesktopConsole.Properties.Resou
 C:\Git\master\PaintDesktopConsole\obj\Debug\PaintDesktopConsole.csproj.GenerateResource.Cache
 C:\Git\master\PaintDesktopConsole\obj\Debug\PaintDesktopConsole.exe
 C:\Git\master\PaintDesktopConsole\obj\Debug\PaintDesktopConsole.pdb
+C:\Git\master\PaintDesktopConsole\obj\Debug\PaintDesktopConsole.Main.resources
+C:\Git\master\PaintDesktopConsole\bin\Debug\Autofac.dll
+C:\Git\master\PaintDesktopConsole\bin\Debug\Autofac.xml
+C:\Git\master\PaintDesktopConsole\obj\Debug\PaintDesktopConsole.ManufacturerForm.resources
